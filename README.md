@@ -1,1 +1,1 @@
-Hello nice to meet you
+2019026908 소프트웨어학부 김택윤
