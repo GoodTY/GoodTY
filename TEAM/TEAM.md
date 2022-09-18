@@ -7,7 +7,7 @@ _Friday Class (22-2-24469)_
 
 | No. | Name        | Members                     | Requirements      |   
 |-----|-------------|-----------------------------|-------------------|
-| 0   | [Instructors](teams/instructors.md) | TAEKYUN KIM, [GoodTY](https://github.com/GoodTY/GoodTY) | Instruct students |  
+| 0   | [Team Leader](../README.md) | TAEKYUN KIM, [GoodTY](https://github.com/GoodTY/GoodTY) | Instruct students |  
 |     |             |                             |                   |
 
 
